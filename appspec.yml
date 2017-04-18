@@ -4,7 +4,7 @@ files:
   - source: /index.html
     destination: /var/www/html/current/
   - source: /code.css
-    destination: /var/www/html/
+    destination: /var/www/html/current/
 hooks:
   BeforeInstall:
     - location: scripts/before_start
