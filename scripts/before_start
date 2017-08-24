@@ -1,6 +1,6 @@
 cd /var/www/html/
 #sudo rm -rf /var/www/html/*
 #mkdir /var/www/html/current
-mkdir /var/www/html/previous
-sudo mv /var/www/html/* /var/www/html/previous/
-sudo service apache2 stop
+#mkdir /var/www/html/previous
+#sudo mv /var/www/html/* /var/www/html/previous/
+#sudo service apache2 stop
